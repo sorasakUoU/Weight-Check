@@ -21,9 +21,6 @@ public class MyManage {
         readSqlLiteDatabase = objMyOpenHelper.getReadableDatabase();
 
 
-
-
-
     } //Constructor
 
 }  // Main Class
